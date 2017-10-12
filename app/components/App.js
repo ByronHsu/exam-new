@@ -5,7 +5,7 @@ import Routes from '../routes';
 
 const App = () =>
     <div>
-        <h1>TEST</h1>
+        <h1>1__</h1>
         { Routes }
         <footer className={footer}>
             <Link to="/">Filterable Table</Link>
